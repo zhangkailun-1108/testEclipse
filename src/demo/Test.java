@@ -3,7 +3,7 @@ package demo;
 
 public class Test {
 		public static void main(String[] args) {
-			
+			//1
 			//作业：创建一个扑克牌类（花色和值），不算大小王
 			//1.放数组中52张牌 
 			//2.洗牌乱序
